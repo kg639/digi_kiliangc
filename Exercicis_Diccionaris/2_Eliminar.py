@@ -1,0 +1,1 @@
+cotxe = {"marca": "Seat", "model": "Ibiza", "any": 2019}
